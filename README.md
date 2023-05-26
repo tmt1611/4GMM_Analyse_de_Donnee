@@ -10,4 +10,4 @@ In this project, we will:
 - Conclude. 
 In this project, we focus on the interpretations of the station clusters and link it to common customer usages. Some technical explanations of the methods are also detailed as proof of our conclusions. Detailed codes and results (in R and Python) are available under the format of Jupyter notebooks (project_velib_R.ipynb and project_velib_python.ipynb).
 # Report
-Please refer to the pdf file report_Velib.pdf for detailed report of the project.
+Please refer to the pdf file Report_Velib.pdf for detailed report of the project.
